@@ -12,7 +12,7 @@ While studying about autonomous driving, we wanted to track and detect specific 
 
 The system architecture of JMODT:
 
-![img_JMODT](https://github.com/Advanced-Topics-in-Software-Team-4/ReadMe/blob/main/img/img_JMODT.png)
+![img_JMODT](https://github.com/Advanced-Topics-in-Software-Team-4/.github/blob/main/profile/img/img_JMODT.png)
 
 - RPN takes calibrated sensor data from paired frames as input and generates regions of interest (RoI) and multi-modal features of the region proposals.
 - The parallel detection and correlation networks use the RoI and proposal features to generate detection results, Re-ID affinities and start-end probabilities.
@@ -100,8 +100,8 @@ python tools/eval.py --data_root ${DATA_ROOT} --det_output ${DETECTION_OUTPUT} -
 
 ### After training
 
-![img_afterTrain](https://github.com/Advanced-Topics-in-Software-Team-4/ReadMe/blob/main/img/img_afterTrain.png)
-![img_file](https://github.com/Advanced-Topics-in-Software-Team-4/ReadMe/blob/main/img/img_file.png)
+![img_afterTrain](https://github.com/Advanced-Topics-in-Software-Team-4/.github/blob/main/profile/img/img_afterTrain.png)
+![img_file](https://github.com/Advanced-Topics-in-Software-Team-4/.github/blob/main/profile/img/img_file.png)
 
 ### After testing
 
