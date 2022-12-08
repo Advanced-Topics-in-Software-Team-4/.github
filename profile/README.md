@@ -1,4 +1,4 @@
-# ReadMe
+# Joint Multi-Object Detection and Tracking
 
 ## Purpose of project
 
@@ -94,6 +94,12 @@ python tools/train.py --data_root ${DATA_ROOT} --ckpt ${PRETRAINED_MODEL} --batc
 
 ```bash
 python tools/eval.py --data_root ${DATA_ROOT} --det_output ${DETECTION_OUTPUT} --ckpt ${CKPT}
+```
+
+12. Visualization
+
+```bash
+python tools/visualization/viewer.py
 ```
 
 ## Result
