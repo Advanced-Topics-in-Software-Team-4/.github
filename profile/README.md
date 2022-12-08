@@ -98,18 +98,6 @@ python tools/eval.py --data_root ${DATA_ROOT} --det_output ${DETECTION_OUTPUT} -
 
 ## Result
 
-### After training
-
-![img_afterTrain](https://github.com/Advanced-Topics-in-Software-Team-4/.github/blob/main/profile/img/img_afterTrain.png)
-![img_file](https://github.com/Advanced-Topics-in-Software-Team-4/.github/blob/main/profile/img/img_file.png)
-
-### After testing
-
-Not yet...ㅠ
-
-### After visualization
-
-Not yet...ㅠ
 
 ## Member
 
