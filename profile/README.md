@@ -81,8 +81,7 @@ python tools/kitti_converter.py --data_root ${DATA_ROOT}
 ```
 
 9. Modify code
-> - Modify the code by referring to the [issue](https://github.com/Kemo-Huang/JMODT/issues)
-> - Change ephocs in JMODT/jmodt/config.py
+> Modify the code by referring to the [issue](https://github.com/Kemo-Huang/JMODT/issues)
 
 10. Training (you can download pretrained model in [here](https://drive.google.com/file/d/1HtQnGiMuhku1rs0hCn95F0UQ40wzmmE0/view). we use batch-size = 4)    
 
